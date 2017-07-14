@@ -1,0 +1,1 @@
+caption always "%L=%=| %-w%{= BW}%45L>[%n %t]%{-}%+w |%=%-7<%{= BW} %c"
