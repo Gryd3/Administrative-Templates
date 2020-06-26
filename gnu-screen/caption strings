@@ -1,0 +1,12 @@
+# Original:  
+#caption always "%L=%=| %-w%{= BW}%45L>[%n %t]%{-}%+w |%=%-7<%{= BW} %c"
+
+# Responsive to Ctrl Character:
+# Red
+caption always "%?%E%{= kR}%:%{= Rk}%? %S: %{= Kw} %L=%=| %-w%45L>%{-}[> %n %t <]%{= Kw}%+w |%=%-8< %{-} %c"
+
+# Green
+caption always "%?%E%{= kG}%:%{= Gk}%? %S: %{= Kw} %L=%=| %-w%45L>%{-}[> %n %t <]%{= Kw}%+w |%=%-8< %{-} %c"
+
+# Blue
+caption always "%?%E%{= kB}%:%{= Bk}%? %S: %{= Kw} %L=%=| %-w%45L>%{-}[> %n %t <]%{= Kw}%+w |%=%-8< %{-} %c"
