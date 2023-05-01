@@ -1,0 +1,2 @@
+# GNU Screen / Agent fix
+setenv SSH_AUTH_SOCK /home/user/.ssh/ssh_auth_sock
